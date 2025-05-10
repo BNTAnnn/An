@@ -1,0 +1,814 @@
+---Top 3 highest for "age"---
+Łukasz Fabiański: 39-361
+Ashley Young: 39-279
+James Milner: 39-100
+
+--- Top 3 lowest for "age" ---
+Mikey Moore: 17-246
+Ethan Nwaneri: 18-024
+Myles Lewis-Skelly: 18-200
+
+
+---Top 3 highest for "games"---
+Anthony Elanga: 32
+Virgil van Dijk: 32
+Keane Lewis-Potter: 32
+
+--- Top 3 lowest for "games" ---
+Ben Godfrey: 2
+Ayden Heaven: 2
+Billy Gilmour: 2
+
+
+---Top 3 highest for "games_starts"---
+Virgil van Dijk: 32
+Bryan Mbeumo: 32
+Ryan Gravenberch: 32
+
+--- Top 3 lowest for "games_starts" ---
+Ali Al Hamadi: 0
+Wataru Endo: 0
+Antony: 0
+
+
+---Top 3 highest for "minutes"---
+Virgil van Dijk: 2880
+David Raya: 2880
+Matz Sels: 2880
+
+--- Top 3 lowest for "minutes" ---
+Harrison Reed: 93
+Ayden Heaven: 95
+Jahmai Simpson-Pusey: 96
+
+
+---Top 3 highest for "goals"---
+Mohamed Salah: 27
+Erling Haaland: 21
+Alexander Isak: 20
+
+--- Top 3 lowest for "goals" ---
+İlkay Gündoğan: 0
+Tyrick Mitchell: 0
+Antonee Robinson: 0
+
+
+---Top 3 highest for "assists"---
+Mohamed Salah: 18
+Bukayo Saka: 10
+Antonee Robinson: 10
+
+--- Top 3 lowest for "assists" ---
+Aaron Cresswell: 0
+Aaron Ramsdale: 0
+Łukasz Fabiański: 0
+
+
+---Top 3 highest for "cards_yellow"---
+Saša Lukić: 12
+Flynn Downes: 10
+Will Hughes: 10
+
+--- Top 3 lowest for "cards_yellow" ---
+Wataru Endo: 0
+Sam Johnstone: 0
+Adam Webster: 0
+
+
+---Top 3 highest for "cards_red"---
+Myles Lewis-Skelly: 2
+Jack Stephens: 2
+Bruno Fernandes: 2
+
+--- Top 3 lowest for "cards_red" ---
+Yves Bissouma: 0
+Will Hughes: 0
+Wes Burns: 0
+
+
+---Top 3 highest for "xg"---
+Mohamed Salah: 22.6
+Erling Haaland: 20.8
+Alexander Isak: 16.6
+
+--- Top 3 lowest for "xg" ---
+Aaron Ramsdale: 0.0
+Welington: 0.0
+Wataru Endo: 0.0
+
+
+---Top 3 highest for "xg_assist"---
+Mohamed Salah: 12.1
+Cole Palmer: 9.2
+Son Heung-min: 8.2
+
+--- Top 3 lowest for "xg_assist" ---
+Aaron Ramsdale: 0.0
+Łukasz Fabiański: 0.0
+Alphonse Areola: 0.0
+
+
+---Top 3 highest for "progressive_carries_x"---
+Jeremy Doku: 169
+Kaoru Mitoma: 135
+Mohamed Salah: 133
+
+--- Top 3 lowest for "progressive_carries_x" ---
+Yerson Mosquera: 0
+Aaron Ramsdale: 0
+Łukasz Fabiański: 0
+
+
+---Top 3 highest for "progressive_passes_x"---
+Bruno Fernandes: 254
+Joško Gvardiol: 225
+Bruno Guimarães: 217
+
+--- Top 3 lowest for "progressive_passes_x" ---
+Aaron Ramsdale: 0
+Łukasz Fabiański: 0
+Alphonse Areola: 0
+
+
+---Top 3 highest for "progressive_passes_received_x"---
+Mohamed Salah: 398
+Bryan Mbeumo: 292
+Kaoru Mitoma: 274
+
+--- Top 3 lowest for "progressive_passes_received_x" ---
+Arijanet Muric: 0
+Antonín Kinský: 0
+Bart Verbruggen: 0
+
+
+---Top 3 highest for "goals_per90"---
+Ryan Sessegnon: 1.41
+James Mcatee: 1.21
+Donyell Malen: 1.04
+
+--- Top 3 lowest for "goals_per90" ---
+Yehor Yarmoliuk: 0.0
+Robin Olsen: 0.0
+Abdukodir Khusanov: 0.0
+
+
+---Top 3 highest for "assists_per90"---
+Bukayo Saka: 0.66
+Danny Ings: 0.63
+Mohamed Salah: 0.57
+
+--- Top 3 lowest for "assists_per90" ---
+Adam Smith: 0.0
+Tyrone Mings: 0.0
+Antony: 0.0
+
+
+---Top 3 highest for "xg_per90"---
+James Mcatee: 1.1
+Marco Asensio: 0.86
+Erling Haaland: 0.76
+
+--- Top 3 lowest for "xg_per90" ---
+Aaron Ramsdale: 0.0
+Łukasz Fabiański: 0.0
+Alphonse Areola: 0.0
+
+
+---Top 3 highest for "xg_assist_per90"---
+Mykhailo Mudryk: 0.58
+Luis Sinisterra: 0.54
+Philip Billing: 0.54
+
+--- Top 3 lowest for "xg_assist_per90" ---
+Bart Verbruggen: 0.0
+Ayden Heaven: 0.0
+Ben Godfrey: 0.0
+
+
+---Top 3 highest for "gk_goals_against_per90"---
+Danny Ward: 4.00
+Christian Walton: 2.67
+Alex McCarthy: 2.60
+
+--- Top 3 lowest for "gk_goals_against_per90" ---
+Jason Steele: 0.50
+David Raya: 0.84
+Alisson: 0.87
+
+
+---Top 3 highest for "gk_save_pct"---
+Neto: 84.6
+Mark Travers: 80.0
+Robert Sánchez: 76.8
+
+--- Top 3 lowest for "gk_save_pct" ---
+Danny Ward: 40.0
+Hákon Rafn Valdimarsson: 50.0
+Robin Olsen: 55.6
+
+
+---Top 3 highest for "gk_clean_sheets_pct"---
+Aaron Ramsdale: 8.3
+Martin Dúbravka: 50.0
+Jason Steele: 50.0
+
+--- Top 3 lowest for "gk_clean_sheets_pct" ---
+Joe Lumley: 0.0
+Alex McCarthy: 0.0
+Alex Palmer: 0.0
+
+
+---Top 3 highest for "gk_pens_save_pct"---
+Dean Henderson: 50.0
+Emiliano Martínez: 50.0
+Aaron Ramsdale: 28.6
+
+--- Top 3 lowest for "gk_pens_save_pct" ---
+Filip Jørgensen: 0.0
+Sam Johnstone: 0.0
+Nick Pope: 0.0
+
+
+---Top 3 highest for "shots_on_target_pct"---
+Adam Webster: 100.0
+Archie Gray: 100.0
+Ibrahim Sangaré: 100.0
+
+--- Top 3 lowest for "shots_on_target_pct" ---
+Aaron Cresswell: 0.0
+Yerson Mosquera: 0.0
+Abdukodir Khusanov: 0.0
+
+
+---Top 3 highest for "shots_on_target_per90"---
+Julio Enciso: 3.37
+Donyell Malen: 2.43
+Ryan Sessegnon: 2.36
+
+--- Top 3 lowest for "shots_on_target_per90" ---
+Victor Bernth Kristiansen: 0.0
+Vitaliy Mykolenko: 0.0
+Łukasz Fabiański: 0.0
+
+
+---Top 3 highest for "goals_per_shot"---
+Myles Lewis-Skelly: 1.0
+John Stones: 1.0
+Axel Disasi: 0.5
+
+--- Top 3 lowest for "goals_per_shot" ---
+Antonee Robinson: 0.0
+Aaron Cresswell: 0.0
+Yerson Mosquera: 0.0
+
+
+---Top 3 highest for "average_shot_distance"---
+Ibrahim Sangaré: 32.0
+Welington: 31.9
+Ryan Fraser: 31.6
+
+--- Top 3 lowest for "average_shot_distance" ---
+Kieran Tierney: 2.6
+Harry Clarke: 4.5
+William Saliba: 4.5
+
+
+---Top 3 highest for "passes_completed"---
+Virgil van Dijk: 2294
+Joško Gvardiol: 2079
+Levi Colwill: 2036
+
+--- Top 3 lowest for "passes_completed" ---
+Albert Grønbaek: 13
+Odsonne Édouard: 17
+Callum Wilson: 23
+
+
+---Top 3 highest for "passes_pct"---
+Manuel Akanji: 93.9
+Nathan Aké: 93.9
+William Saliba: 93.7
+
+--- Top 3 lowest for "passes_pct" ---
+Matz Sels: 50.6
+George Hirst: 54.1
+Beto: 57.2
+
+
+---Top 3 highest for "passes_total_distance"---
+Virgil van Dijk: 41794
+Levi Colwill: 36960
+William Saliba: 34672
+
+--- Top 3 lowest for "passes_total_distance" ---
+Albert Grønbaek: 135
+Odsonne Édouard: 230
+Ali Al Hamadi: 278
+
+
+---Top 3 highest for "passes_pct_short"---
+Aaron Ramsdale: 100.0
+Łukasz Fabiański: 100.0
+Antonín Kinský: 100.0
+
+--- Top 3 lowest for "passes_pct_short" ---
+Paul Onuachu: 62.9
+Rodrigo Muniz: 67.7
+Ramón Sosa: 68.2
+
+
+---Top 3 highest for "passes_pct_medium"---
+Caoimhín Kelleher: 100.0
+Hákon Rafn Valdimarsson: 100.0
+Alex Palmer: 100.0
+
+--- Top 3 lowest for "passes_pct_medium" ---
+George Hirst: 42.9
+Beto: 49.2
+Albert Grønbaek: 50.0
+
+
+---Top 3 highest for "passes_pct_long"---
+Andy Irving: 100.0
+Wataru Endo: 100.0
+Christopher Nkunku: 100.0
+
+--- Top 3 lowest for "passes_pct_long" ---
+Marshall Munetsi: 0.0
+Ross Stewart: 0.0
+George Hirst: 0.0
+
+
+---Top 3 highest for "assisted_shots"---
+Bruno Fernandes: 77
+Cole Palmer: 75
+Mohamed Salah: 73
+
+--- Top 3 lowest for "assisted_shots" ---
+Aaron Ramsdale: 0
+Łukasz Fabiański: 0
+Arijanet Muric: 0
+
+
+---Top 3 highest for "passes_into_final_third"---
+Virgil van Dijk: 245
+Youri Tielemans: 206
+Moisés Caicedo: 204
+
+--- Top 3 lowest for "passes_into_final_third" ---
+Ali Al Hamadi: 0
+Chiedozie Ogbene: 0
+Martin Dúbravka: 0
+
+
+---Top 3 highest for "passes_into_penalty_area"---
+Mohamed Salah: 78
+Alex Iwobi: 68
+Martin Ødegaard: 65
+
+--- Top 3 lowest for "passes_into_penalty_area" ---
+Woyo Coulibaly: 0
+Willy Boly: 0
+Łukasz Fabiański: 0
+
+
+---Top 3 highest for "crosses_into_penalty_area"---
+Antonee Robinson: 26
+Pedro Porro: 22
+Trent Alexander-Arnold: 20
+
+--- Top 3 lowest for "crosses_into_penalty_area" ---
+Łukasz Fabiański: 0
+Aaron Ramsdale: 0
+Ali Al Hamadi: 0
+
+
+---Top 3 highest for "progressive_passes_y"---
+Bruno Fernandes: 254
+Joško Gvardiol: 225
+Bruno Guimarães: 217
+
+--- Top 3 lowest for "progressive_passes_y" ---
+Aaron Ramsdale: 0
+Łukasz Fabiański: 0
+Alphonse Areola: 0
+
+
+---Top 3 highest for "sca"---
+Cole Palmer: 175
+Bruno Fernandes: 156
+Mohamed Salah: 139
+
+--- Top 3 lowest for "sca" ---
+Ben Mee: 0
+Stefan Ortega: 0
+Kosta Nedeljković: 0
+
+
+---Top 3 highest for "sca_per90"---
+Philip Billing: 7.83
+Luis Guilherme: 7.38
+Kevin De Bruyne: 6.4
+
+--- Top 3 lowest for "sca_per90" ---
+Benoît Badiashile: 0.0
+Massimo Luongo: 0.0
+Ben Mee: 0.0
+
+
+---Top 3 highest for "gca"---
+Mohamed Salah: 24
+Bukayo Saka: 21
+Mikkel Damsgaard: 18
+
+--- Top 3 lowest for "gca" ---
+Aaron Cresswell: 0
+Aaron Ramsdale: 0
+Toby Collyer: 0
+
+
+---Top 3 highest for "gca_per90"---
+Bukayo Saka: 1.38
+Harvey Elliott: 1.1
+Mikey Moore: 0.97
+
+--- Top 3 lowest for "gca_per90" ---
+Aaron Cresswell: 0.0
+Aaron Ramsdale: 0.0
+Yves Bissouma: 0.0
+
+
+---Top 3 highest for "tackles"---
+Idrissa Gana Gueye: 116
+Daniel Muñoz: 100
+Noussair Mazraoui: 95
+
+--- Top 3 lowest for "tackles" ---
+Aaron Ramsdale: 0
+Ben Godfrey: 0
+Łukasz Fabiański: 0
+
+
+---Top 3 highest for "tackles_won"---
+Idrissa Gana Gueye: 70
+Daniel Muñoz: 65
+Moisés Caicedo: 58
+
+--- Top 3 lowest for "tackles_won" ---
+Aaron Ramsdale: 0
+Łukasz Fabiański: 0
+Ali Al Hamadi: 0
+
+
+---Top 3 highest for "challenges"---
+Trent Alexander-Arnold: 99
+Alexis Mac Allister: 91
+Elliot Anderson: 90
+
+--- Top 3 lowest for "challenges" ---
+Ben Godfrey: 0
+Mykhailo Mudryk: 0
+Martin Dúbravka: 0
+
+
+---Top 3 highest for "challenges_lost"---
+João Gomes: 54
+Trent Alexander-Arnold: 53
+Elliot Anderson: 49
+
+--- Top 3 lowest for "challenges_lost" ---
+Woyo Coulibaly: 0
+Ben Mee: 0
+Ben Godfrey: 0
+
+
+---Top 3 highest for "blocks"---
+Nathan Collins: 68
+Murillo: 64
+Alexis Mac Allister: 57
+
+--- Top 3 lowest for "blocks" ---
+Aaron Ramsdale: 0
+Łukasz Fabiański: 0
+Ali Al Hamadi: 0
+
+
+---Top 3 highest for "blocked_shots"---
+Nathan Collins: 48
+Dara O'Shea: 45
+James Tarkowski: 42
+
+--- Top 3 lowest for "blocked_shots" ---
+Łukasz Fabiański: 0
+Aaron Ramsdale: 0
+Yankuba Minteh: 0
+
+
+---Top 3 highest for "blocked_passes"---
+Alexis Mac Allister: 52
+Antoine Semenyo: 47
+Tyrick Mitchell: 45
+
+--- Top 3 lowest for "blocked_passes" ---
+Aaron Ramsdale: 0
+Łukasz Fabiański: 0
+Arijanet Muric: 0
+
+
+---Top 3 highest for "interceptions"---
+Aaron Wan-Bissaka: 57
+Ryan Gravenberch: 54
+Antonee Robinson: 53
+
+--- Top 3 lowest for "interceptions" ---
+Alex Palmer: 0
+Miguel Almirón: 0
+Bernd Leno: 0
+
+
+---Top 3 highest for "touches"---
+Virgil van Dijk: 2819
+Joško Gvardiol: 2615
+Levi Colwill: 2506
+
+--- Top 3 lowest for "touches" ---
+Albert Grønbaek: 38
+Odsonne Édouard: 45
+Ali Al Hamadi: 53
+
+
+---Top 3 highest for "touches_def_pen_area"---
+Mark Flekken: 1225
+Bernd Leno: 972
+André Onana: 951
+
+--- Top 3 lowest for "touches_def_pen_area" ---
+Emi Buendía: 0
+Mikey Moore: 1
+Mathys Tel: 1
+
+
+---Top 3 highest for "touches_def_3rd"---
+Mark Flekken: 1521
+Jordan Pickford: 1355
+André Onana: 1235
+
+--- Top 3 lowest for "touches_def_3rd" ---
+Odsonne Édouard: 4
+Callum Wilson: 5
+Ali Al Hamadi: 6
+
+
+---Top 3 highest for "touches_mid_3rd"---
+Virgil van Dijk: 1561
+Moisés Caicedo: 1348
+William Saliba: 1324
+
+--- Top 3 lowest for "touches_mid_3rd" ---
+Neto: 0
+Fraser Forster: 0
+Jason Steele: 0
+
+
+---Top 3 highest for "touches_att_3rd"---
+Mohamed Salah: 943
+Bruno Fernandes: 825
+Bryan Mbeumo: 820
+
+--- Top 3 lowest for "touches_att_3rd" ---
+Aaron Ramsdale: 0
+Mark Flekken: 0
+Mark Travers: 0
+
+
+---Top 3 highest for "touches_att_pen_area"---
+Mohamed Salah: 298
+Erling Haaland: 170
+Antoine Semenyo: 169
+
+--- Top 3 lowest for "touches_att_pen_area" ---
+Aaron Ramsdale: 0
+Alisson: 0
+Alphonse Areola: 0
+
+
+---Top 3 highest for "take_ons"---
+Mohammed Kudus: 175
+Jeremy Doku: 168
+Morgan Rogers: 142
+
+--- Top 3 lowest for "take_ons" ---
+Aaron Ramsdale: 0
+Antonín Kinský: 0
+Arijanet Muric: 0
+
+
+---Top 3 highest for "take_ons_won_pct"---
+Aaron Cresswell: 100.0
+Łukasz Fabiański: 100.0
+Axel Disasi: 100.0
+
+--- Top 3 lowest for "take_ons_won_pct" ---
+Abdukodir Khusanov: 0.0
+Ben White: 0.0
+Albert Grønbaek: 0.0
+
+
+---Top 3 highest for "take_ons_tackled_pct"---
+Abdukodir Khusanov: 100.0
+Armel Bella Kotchap: 100.0
+Benoît Badiashile: 100.0
+
+--- Top 3 lowest for "take_ons_tackled_pct" ---
+Aaron Cresswell: 0.0
+Łukasz Fabiański: 0.0
+Axel Disasi: 0.0
+
+
+---Top 3 highest for "carries"---
+Joško Gvardiol: 1688
+Virgil van Dijk: 1589
+Jan Paul van Hecke: 1471
+
+--- Top 3 lowest for "carries" ---
+Albert Grønbaek: 18
+Odsonne Édouard: 23
+Kosta Nedeljković: 27
+
+
+---Top 3 highest for "carries_progressive_distance"---
+Jan Paul van Hecke: 6356
+Joško Gvardiol: 4938
+Rúben Dias: 4615
+
+--- Top 3 lowest for "carries_progressive_distance" ---
+Albert Grønbaek: 15
+Massimo Luongo: 25
+Harrison Reed: 27
+
+
+---Top 3 highest for "progressive_carries_y"---
+Jeremy Doku: 169
+Kaoru Mitoma: 135
+Mohamed Salah: 133
+
+--- Top 3 lowest for "progressive_carries_y" ---
+Yerson Mosquera: 0
+Aaron Ramsdale: 0
+Łukasz Fabiański: 0
+
+
+---Top 3 highest for "carries_into_final_third"---
+Alex Iwobi: 90
+Joško Gvardiol: 89
+Jeremy Doku: 79
+
+--- Top 3 lowest for "carries_into_final_third" ---
+Aaron Ramsdale: 0
+Łukasz Fabiański: 0
+Toby Collyer: 0
+
+
+---Top 3 highest for "carries_into_penalty_area"---
+Mohamed Salah: 107
+Jeremy Doku: 77
+Noni Madueke: 74
+
+--- Top 3 lowest for "carries_into_penalty_area" ---
+Arijanet Muric: 0
+Archie Gray: 0
+Antonín Kinský: 0
+
+
+---Top 3 highest for "miscontrols"---
+Mohamed Salah: 99
+Liam Delap: 92
+Morgan Rogers: 89
+
+--- Top 3 lowest for "miscontrols" ---
+Łukasz Fabiański: 0
+Billy Gilmour: 0
+Bernd Leno: 0
+
+
+---Top 3 highest for "dispossessed"---
+Mohammed Kudus: 83
+Bruno Guimarães: 71
+Dejan Kulusevski: 70
+
+--- Top 3 lowest for "dispossessed" ---
+Aaron Cresswell: 0
+Aaron Ramsdale: 0
+Łukasz Fabiański: 0
+
+
+---Top 3 highest for "passes_received"---
+Virgil van Dijk: 1931
+Joško Gvardiol: 1911
+Levi Colwill: 1835
+
+--- Top 3 lowest for "passes_received" ---
+Albert Grønbaek: 21
+Odsonne Édouard: 26
+Neto: 28
+
+
+---Top 3 highest for "progressive_passes_received_y"---
+Mohamed Salah: 398
+Bryan Mbeumo: 292
+Kaoru Mitoma: 274
+
+--- Top 3 lowest for "progressive_passes_received_y" ---
+Arijanet Muric: 0
+Antonín Kinský: 0
+Bart Verbruggen: 0
+
+
+---Top 3 highest for "fouls"---
+Liam Delap: 63
+Antoine Semenyo: 62
+João Gomes: 62
+
+--- Top 3 lowest for "fouls" ---
+Antonín Kinský: 0
+Arijanet Muric: 0
+Bart Verbruggen: 0
+
+
+---Top 3 highest for "fouled"---
+Bruno Guimarães: 94
+James Maddison: 63
+John McGinn: 60
+
+--- Top 3 lowest for "fouled" ---
+Alphonse Areola: 0
+Andrés García: 0
+Axel Disasi: 0
+
+
+---Top 3 highest for "offsides"---
+Dominic Calvert-Lewin: 27
+Jamie Vardy: 23
+Chris Wood: 22
+
+--- Top 3 lowest for "offsides" ---
+Aaron Cresswell: 0
+Aaron Ramsdale: 0
+Łukasz Fabiański: 0
+
+
+---Top 3 highest for "crosses"---
+Pedro Porro: 168
+Bryan Mbeumo: 163
+Bruno Fernandes: 162
+
+--- Top 3 lowest for "crosses" ---
+Łukasz Fabiański: 0
+Aaron Ramsdale: 0
+Ali Al Hamadi: 0
+
+
+---Top 3 highest for "ball_recoveries"---
+Moisés Caicedo: 184
+Bruno Fernandes: 182
+Ryan Christie: 182
+
+--- Top 3 lowest for "ball_recoveries" ---
+Fraser Forster: 1
+Danny Ward: 1
+Hákon Rafn Valdimarsson: 1
+
+
+---Top 3 highest for "aerials_won"---
+Dan Burn: 115
+Virgil van Dijk: 102
+James Tarkowski: 100
+
+--- Top 3 lowest for "aerials_won" ---
+Antony: 0
+Welington: 0
+Miguel Almirón: 0
+
+
+---Top 3 highest for "aerials_lost"---
+Chris Wood: 117
+Jean-Philippe Mateta: 93
+Jørgen Strand Larsen: 91
+
+--- Top 3 lowest for "aerials_lost" ---
+Aaron Ramsdale: 0
+Alisson: 0
+Alphonse Areola: 0
+
+
+---Top 3 highest for "aerials_won_pct"---
+Jakub Stolarczyk: 100.0
+Aaron Ramsdale: 100.0
+Stefan Ortega: 100.0
+
+--- Top 3 lowest for "aerials_won_pct" ---
+Antony: 0.0
+Andrés García: 0.0
+Timo Werner: 0.0
+
+
